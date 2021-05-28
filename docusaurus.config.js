@@ -75,7 +75,7 @@ module.exports = {
             {
               label: 'COINs 2021'
               href: 'https://sites.google.com/view/coinseminar21/home'
-            }
+            },
           ],
         },
       ],
