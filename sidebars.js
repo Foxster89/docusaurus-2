@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    COINs Team5: ['doc1'],
+    COINs: ['doc1'],
     Knowledge: ['doc2', 'doc3'],
   },
 };
