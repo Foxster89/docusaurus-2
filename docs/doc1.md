@@ -1,7 +1,6 @@
 ---
 id: doc1
 title: About us
-sidebar_label: About us
 ---
 
 # Plants as Biosensors #
