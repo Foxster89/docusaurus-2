@@ -1,6 +1,7 @@
 module.exports = {
   someSidebar: {
-    COINs: ['doc1'],
+    COINs Project: ['doc1'],
     Knowledge: ['doc2', 'doc3'],
+    Project Status: ['doc4', 'doc5'],
   },
 };
