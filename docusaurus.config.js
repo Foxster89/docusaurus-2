@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Plants as Biosensors',
+  tagline: 'Database and Mediawiki',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -70,12 +70,16 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Foxster89/docusaurus-2',
             },
+            {
+              label: 'COINs 2021'
+              href: 'https://sites.google.com/view/coinseminar21/home'
+            }
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} COINs2021 Project, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
