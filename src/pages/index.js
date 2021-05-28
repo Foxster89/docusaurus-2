@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: <>Plants Spikerbox</>,
-    imageUrl: 'img/eco_plant_gree_icon.svg',
+    imageUrl: 'img/eco_plant_green_icon.svg',
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
