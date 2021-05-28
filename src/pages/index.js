@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Documentation</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/eco_green_house.svg',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: <>Plants Spikerbox</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/eco_plant_gree_icon.svg',
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -29,7 +29,7 @@ const features = [
   },
   {
     title: <>COINs 2021</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/eco_wifi_pollution.svg',
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
