@@ -72,10 +72,6 @@ module.exports = {
               label: 'GitHub',
               href: 'https://github.com/Foxster89/docusaurus-2',
             },
-            {
-              label: 'COINs 2021'
-              href: 'https://sites.google.com/view/coinseminar21/home'
-            },
           ],
         },
       ],
