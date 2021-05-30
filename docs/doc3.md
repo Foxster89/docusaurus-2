@@ -3,11 +3,7 @@ id: doc3
 title: Literature
 ---
 
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Literaturverzeichnis</title>
-</head>
-<body>
+
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Chatterjee, S. K., Das, S., Maharatna, K., Masi, E., Santopolo, L., Mancuso, S., &amp; Vitaletti, A. (2015). Exploring strategies for classification of external stimuli using statistical features of the plant electrical response. <i>Journal of The Royal Society Interface</i>, <i>12</i>(104), 20141225. <a href="https://doi.org/10.1098/rsif.2014.1225">https://doi.org/10.1098/rsif.2014.1225</a></div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1098%2Frsif.2014.1225&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Exploring%20strategies%20for%20classification%20of%20external%20stimuli%20using%20statistical%20features%20of%20the%20plant%20electrical%20response&amp;rft.jtitle=Journal%20of%20The%20Royal%20Society%20Interface&amp;rft.stitle=Journal%20of%20The%20Royal%20Society%20Interface&amp;rft.volume=12&amp;rft.issue=104&amp;rft.aufirst=Shre%20Kumar&amp;rft.aulast=Chatterjee&amp;rft.au=Shre%20Kumar%20Chatterjee&amp;rft.au=Saptarshi%20Das&amp;rft.au=Koushik%20Maharatna&amp;rft.au=Elisa%20Masi&amp;rft.au=Luisa%20Santopolo&amp;rft.au=Stefano%20Mancuso&amp;rft.au=Andrea%20Vitaletti&amp;rft.date=2015-03-06&amp;rft.pages=20141225"></span>
@@ -37,4 +33,4 @@ title: Literature
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.4161%2Fpsb.1.3.3000&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Plants%20as%20Environmental%20Biosensors&amp;rft.jtitle=Plant%20signaling%20%26%20behavior&amp;rft.stitle=Plant%20signaling%20%26%20behavior&amp;rft.volume=1&amp;rft.aufirst=Alexander&amp;rft.aulast=Volkov&amp;rft.au=Alexander%20Volkov&amp;rft.au=Don%20Ranatunga&amp;rft.date=2006-06-01&amp;rft.pages=105-15&amp;rft.spage=105&amp;rft.epage=15"></span>
   <div class="csl-entry">Volkov, A., &amp; Shtessel, Y. (2018). Electrical signal propagation within and between tomato plants. <i>Bioelectrochemistry</i>, <i>124</i>. <a href="https://doi.org/10.1016/j.bioelechem.2018.08.001">https://doi.org/10.1016/j.bioelechem.2018.08.001</a></div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bioelechem.2018.08.001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Electrical%20signal%20propagation%20within%20and%20between%20tomato%20plants&amp;rft.jtitle=Bioelectrochemistry&amp;rft.stitle=Bioelectrochemistry&amp;rft.volume=124&amp;rft.aufirst=Alexander&amp;rft.aulast=Volkov&amp;rft.au=Alexander%20Volkov&amp;rft.au=Yuri%20Shtessel&amp;rft.date=2018-08-01"></span>
-</div></body>
+</div>
