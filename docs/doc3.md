@@ -3,7 +3,6 @@ id: doc3
 title: Literature
 ---
 
-<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
 
 <div class="csl-entry">Chatterjee, S. K., Das, S., Maharatna, K., Masi, E., Santopolo, L., Mancuso, S., & Vitaletti, A. (2015). Exploring strategies for classification of external stimuli using statistical features of the plant electrical response. _Journal of The Royal Society Interface_, _12_(104), 20141225\. [https://doi.org/10.1098/rsif.2014.1225](https://doi.org/10.1098/rsif.2014.1225)</div>
 
