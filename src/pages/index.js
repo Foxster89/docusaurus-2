@@ -74,6 +74,14 @@ function Home() {
               to={useBaseUrl('docs/doc1')}>
               About our Project
             </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('docs/doc2')}>
+              Literature
+            </Link>
           </div>
         </div>
       </header>

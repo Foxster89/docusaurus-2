@@ -35,13 +35,17 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Our Project',
               to: 'docs/doc1',
             },
             {
-              label: 'Second Doc',
+              label: 'Knowledge',
               to: 'docs/doc2',
             },
+            {
+              label: 'Project Status',
+              to: 'docs/doc3',
+            }
           ],
         },
         {
