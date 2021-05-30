@@ -3,8 +3,6 @@ id: doc3
 title: Literature
 ---
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <title>Literaturverzeichnis</title>
@@ -40,4 +38,3 @@ title: Literature
   <div class="csl-entry">Volkov, A., &amp; Shtessel, Y. (2018). Electrical signal propagation within and between tomato plants. <i>Bioelectrochemistry</i>, <i>124</i>. <a href="https://doi.org/10.1016/j.bioelechem.2018.08.001">https://doi.org/10.1016/j.bioelechem.2018.08.001</a></div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bioelechem.2018.08.001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Electrical%20signal%20propagation%20within%20and%20between%20tomato%20plants&amp;rft.jtitle=Bioelectrochemistry&amp;rft.stitle=Bioelectrochemistry&amp;rft.volume=124&amp;rft.aufirst=Alexander&amp;rft.aulast=Volkov&amp;rft.au=Alexander%20Volkov&amp;rft.au=Yuri%20Shtessel&amp;rft.date=2018-08-01"></span>
 </div></body>
-</html>
