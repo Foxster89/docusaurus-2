@@ -3,8 +3,7 @@ id: doc2
 title: Plant SpikerBox
 ---
 
-
-# Plant SpikerBox by BackyardBrains 
+# by BackyardBrains 
 
 To measure the reactions of plants to different stimuli, we use the "Plant SpikerBox". 
 More information can be found on the website of BackyardBrains:
