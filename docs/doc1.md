@@ -21,4 +21,4 @@ We are happy about any contribution! If you have any comments or want us to incl
 
 Thanks for your engagement!
 
-<img src={../static/img/Gruppenfoto.jpg} alt="COINs Team 05" />
+![Gruppenfoto](../static/img/Gruppenfoto.jpg)
