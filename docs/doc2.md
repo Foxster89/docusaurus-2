@@ -26,4 +26,4 @@ https://raw.githubusercontent.com/BackyardBrains/SpikerShield/master/Plant/Ardui
 
 ## Blueprint of the SpikerBox
 
-[Download the blueprint as PDF](../static/pdf/blueprint_spikerbox.pdf)
+[Download the blueprint as PDF](./pdf/blueprint_spikerbox.pdf)
