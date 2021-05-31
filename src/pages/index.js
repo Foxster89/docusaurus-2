@@ -32,7 +32,7 @@ const features = [
     imageUrl: 'img/eco_wifi_pollution.svg',
     description: (
       <>
-        The group of this project was formed in the COINs seminar 2021 and the plattform was also designed for usage in future COIN seminar with the top about plant as biosensors.
+        The group of this project was formed in the COINs seminar 2021 and the plattform was also designed for usage in future COIN seminar.
       </>
     ),
   },
