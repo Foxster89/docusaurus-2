@@ -8,32 +8,31 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Documentation</>,
-    imageUrl: 'img/eco_green_house.svg',
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: <>Plants Spikerbox</>,
-    imageUrl: 'img/eco_plant_green_icon.svg',
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
     title: <>COINs 2021</>,
     imageUrl: 'img/eco_wifi_pollution.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This platform was established in the context of the 
+        MIT, University of Cologne, University of Bamberg, HSLU Collaborative Innovation Networks seminar.
+      </>
+    ),
+  },
+  {
+    title: <>Documentation</>,
+    imageUrl: 'img/eco_green_house.svg',
+    description: (
+      <>
+        We want to provide a documentation on how to work on a topic in the field of plants as biosensors. 
+      </>
+    ),
+  },
+  {
+    title: <>Plant Spikerbox</>,
+    imageUrl: 'img/eco_plant_green_icon.svg',
+    description: (
+      <>
+        For our experiments we use the Plant SpikerBox by BackyardBrains. 
+        It makes it possible to measure the plant's electric responses to different stimuli.
       </>
     ),
   },
