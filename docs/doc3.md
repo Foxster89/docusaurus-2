@@ -3,6 +3,14 @@ id: doc3
 title: Literature
 ---
 
+:::tip We need your support
+
+We are always looking for more literature about plants as biosensors or topics which are connected with this topic.
+Just send us an email and we will add it. Our contact data you can find [here](https://plantsasbiosensors.vercel.app/docs/doc1).
+
+Thank you!
+
+:::
 
 Chatterjee, S. K., Das, S., Maharatna, K., Masi, E., Santopolo, L., Mancuso, S., & Vitaletti, A. (2015). Exploring strategies for classification of external stimuli using statistical features of the plant electrical response. *Journal of The Royal Society Interface*, *12*(104), 20141225. [https://doi.org/10.1098/rsif.2014.1225](https://doi.org/10.1098/rsif.2014.1225)
 
