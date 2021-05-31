@@ -23,6 +23,6 @@ Thanks for your engagement!
 
 <img
   width="560" height="315"
-  src={require('/img/Gruppenfoto.jpg').default}
+  src={require(/img/Gruppenfoto.jpg).default}
   alt="Gruppenfoto"
 />
