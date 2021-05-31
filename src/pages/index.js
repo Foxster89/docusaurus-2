@@ -73,6 +73,7 @@ function Home() {
               )}
               to={useBaseUrl('docs/doc1')}>
               About our Project
+              </Link>
           </div>
         </div>
       </header>
