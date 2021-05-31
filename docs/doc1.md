@@ -21,8 +21,4 @@ We are happy about any contribution! If you have any comments or want us to incl
 
 Thanks for your engagement!
 
-<img
-  width="560" height="315"
-  src={require(/img/Gruppenfoto.jpg).default}
-  alt="Gruppenfoto"
-/>
+<img width="560" height="315" src="/img/Gruppenfoto.jpg" alt="Gruppenfoto" />
