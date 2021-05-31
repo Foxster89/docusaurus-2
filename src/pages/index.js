@@ -78,6 +78,7 @@ function Home() {
               className={classnames(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
+                
               )}
               to={useBaseUrl('docs/doc2')}>
               Literature
