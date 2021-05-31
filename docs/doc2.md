@@ -22,3 +22,8 @@ https://help.backyardbrains.com/support/solutions/43000367743
 
 BackyardBrains also provide their Arduino Code for the SpikerBox:
 https://raw.githubusercontent.com/BackyardBrains/SpikerShield/master/Plant/Arduino%20Code/SpikeRecorder/SpikeRecorderSpikerShield_V1_1.ino
+
+
+## Blueprint of the SpikerBox
+
+[Download the blueprint as PDF](../static/pdf/blueprint_spikerbox.pdf)
