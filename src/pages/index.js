@@ -12,8 +12,8 @@ const features = [
     imageUrl: 'img/eco_green_house.svg',
     description: (
       <>
-        The page serves as a plattform to for documentation and as a plattform to exchange knowledge.
-        Everyone is welcome to contribute or use the information we gather and share.
+        The page serves as a plattform for documentation and to exchange knowledge.
+        Everyone is welcome to contribute or use the information we gather.
       </>
     ),
   },
@@ -22,8 +22,8 @@ const features = [
     imageUrl: 'img/eco_plant_green_icon.svg',
     description: (
       <>
-        For mesuring reactions on plants we use the "Plant Spikerbox" from backyardbrains. 
-        On this plattform we also show how to use it ans gather all information about the box and the usage.
+        For mesuring reactions of plants we use the "Plant Spikerbox" from backyardbrains. 
+        On this plattform we also show how to use this box and gather all information about the box and the usage.
       </>
     ),
   },
@@ -32,7 +32,7 @@ const features = [
     imageUrl: 'img/eco_wifi_pollution.svg',
     description: (
       <>
-        The group of this project was formed in the COINs seminar 2021 ans should be also used in new COINs seminars in the future.
+        The group of this project was formed in the COINs seminar 2021 and the plattform was also designed for usage in future COIN seminar with the top about plant as biosensors.
       </>
     ),
   },
