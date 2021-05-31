@@ -11,26 +11,32 @@ const features = [
     title: <>COINs 2021</>,
     imageUrl: 'img/eco_wifi_pollution.svg',
     description: (
+      <>
         This platform was established in the context of the 
         MIT, University of Cologne, University of Bamberg, HSLU Collaborative Innovation Networks seminar.
         The page serves as a plattform for documentation and to exchange knowledge.
+      </>
     ),
   },
   {
     title: <>Documentation</>,
     imageUrl: 'img/eco_green_house.svg',
     description: (
+      <>
         We want to provide a platform for documentation and exchange on how to work on the topic of plants as biosensors. 
         Everyone is welcome to contribute or use the gathered information.
+      </>
     ),
   },
   {
     title: <>Plant Spikerbox</>,
     imageUrl: 'img/eco_plant_green_icon.svg',
     description: (
+      <>
         For our experiments we use the Plant SpikerBox by BackyardBrains. 
-        It makes it possible to measure the plant s electric responses to different stimuli.
+        It makes it possible to measure the plant's electric responses to different stimuli.
         We show how to use the box and gather useful information about the box and its usage.
+      </>
     ),
   },
 ];
