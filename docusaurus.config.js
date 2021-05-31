@@ -44,7 +44,7 @@ module.exports = {
             },
             {
               label: 'Project Status',
-              to: 'docs/doc3',
+              to: 'docs/doc4',
             }
           ],
         },
