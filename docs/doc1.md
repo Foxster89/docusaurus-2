@@ -21,4 +21,4 @@ We are happy about any contribution! If you have any comments or want us to incl
 
 Thanks for your engagement!
 
-<img src="img/Gruppenfoto.jpg" alt="Gruppenfoto" width="250"/>
+<img src="/img/Gruppenfoto.jpg" alt="Gruppenfoto" width="250"/>
