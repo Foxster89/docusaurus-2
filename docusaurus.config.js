@@ -1,80 +1,80 @@
 module.exports = {
-  title: 'Plants as Biosensors',
-  tagline: 'Database and Mediawiki',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'Foxster89', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-2', // Usually your repo name.
+  title: "Plants as Biosensors",
+  tagline: "Database and Mediawiki",
+  url: "https://your-docusaurus-test-site.com",
+  baseUrl: "/",
+  favicon: "img/favicon.ico",
+  organizationName: "Foxster89", // Usually your GitHub org/user name.
+  projectName: "docusaurus-2", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Plants as Biosensors',
+      title: "Plants as Biosensors",
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: "My Site Logo",
+        src: "img/logo.svg",
       },
       links: [
         {
-          to: 'docs/doc1',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
+          to: "docs/doc1",
+          activeBasePath: "docs",
+          label: "Docs",
+          position: "left",
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: "blog", label: "Blog", position: "left" },
         {
-          href: 'https://github.com/Foxster89/docusaurus-2',
-          label: 'GitHub',
-          position: 'right',
+          href: "https://github.com/Foxster89/docusaurus-2",
+          label: "GitHub",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Docs",
           items: [
             {
-              label: 'Our Project',
-              to: 'docs/doc1',
+              label: "Our Project",
+              to: "docs/doc1",
             },
             {
-              label: 'Knowledge',
-              to: 'docs/doc2',
+              label: "Knowledge",
+              to: "docs/doc2",
             },
             {
-              label: 'Project Status',
-              to: 'docs/doc4',
-            }
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://plantsasbiosensors.vercel.app',
-            },
-            {
-              label: 'Discord',
-              href: 'https://plantsasbiosensors.vercel.app',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://plantsasbiosensors.vercel.app',
+              label: "Project Status",
+              to: "docs/doc4",
             },
           ],
         },
         {
-          title: 'More',
+          title: "Community",
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: "Stack Overflow",
+              href: "https://plantsasbiosensors.vercel.app",
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/Foxster89/docusaurus-2',
+              label: "Discord",
+              href: "https://plantsasbiosensors.vercel.app",
+            },
+            {
+              label: "Twitter",
+              href: "https://plantsasbiosensors.vercel.app",
+            },
+          ],
+        },
+        {
+          title: "More",
+          items: [
+            {
+              label: "Blog",
+              to: "blog",
+            },
+            {
+              label: "GitHub",
+              href: "https://github.com/Foxster89/docusaurus-2",
             },
           ],
         },
@@ -84,22 +84,22 @@ module.exports = {
   },
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            "https://github.com/facebook/docusaurus/edit/master/website/",
         },
-        blog: {
+        /*blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
+        },*/
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       },
     ],

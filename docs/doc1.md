@@ -1,9 +1,7 @@
 ---
 id: doc1
-title: About our project
+title: Plants as biosensors
 ---
-
-# Plants as Biosensors
 
 **Welcome to our platform!**
 
