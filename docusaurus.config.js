@@ -15,12 +15,15 @@ module.exports = {
       },
       links: [
         {
-          to: "docs/doc1",
+          to: "About our project/doc1",
           activeBasePath: "docs",
-          label: "Docs",
+          label: "About our project",
           position: "left",
         },
-        { to: "blog", label: "Blog", position: "left" },
+        { to: "Plant SpikerBox/doc2", label: "Knowledge", position: "left" },
+        { to: "Literature/doc3", label: "Literature", position: "left" },
+        { to: "Project status/doc4", label: "ProjectStatus", position: "left" },
+
         {
           href: "https://github.com/Foxster89/docusaurus-2",
           label: "GitHub",
@@ -32,18 +35,22 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Useful links",
           items: [
             {
-              label: "Our Project",
+              label: "About our project",
               to: "docs/doc1",
             },
             {
-              label: "Knowledge",
+              label: "Plant SpikerBox",
               to: "docs/doc2",
             },
             {
-              label: "Project Status",
+              label: "Literature",
+              to: "docs/doc3",
+            },
+            {
+              label: "Project status",
               to: "docs/doc4",
             },
           ],
@@ -52,8 +59,8 @@ module.exports = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://plantsasbiosensors.vercel.app",
+              label: "GitHub",
+              href: "https://github.com/Foxster89/docusaurus-2",
             },
             {
               label: "Discord",
@@ -65,7 +72,7 @@ module.exports = {
             },
           ],
         },
-        {
+        /*{
           title: "More",
           items: [
             {
@@ -77,7 +84,7 @@ module.exports = {
               href: "https://github.com/Foxster89/docusaurus-2",
             },
           ],
-        },
+        },*/
       ],
       copyright: `Copyright © ${new Date().getFullYear()} COINs2021 Project.`,
     },
@@ -86,13 +93,13 @@ module.exports = {
     [
       "@docusaurus/preset-classic",
       {
-        docs: {
+        /*docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
             "https://github.com/facebook/docusaurus/edit/master/website/",
         },
-        /*blog: {
+        blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
