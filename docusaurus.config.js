@@ -15,14 +15,22 @@ module.exports = {
       },
       links: [
         {
-          to: "About our project/doc1",
+          to: "About our project/docs/doc1",
           activeBasePath: "docs",
           label: "About our project",
           position: "left",
         },
-        { to: "Plant SpikerBox/doc2", label: "Knowledge", position: "left" },
-        { to: "Literature/doc3", label: "Literature", position: "left" },
-        { to: "Project status/doc4", label: "ProjectStatus", position: "left" },
+        {
+          to: "Plant SpikerBox/docs/doc2",
+          label: "Knowledge",
+          position: "left",
+        },
+        { to: "Literature/docs/doc3", label: "Literature", position: "left" },
+        {
+          to: "Project status/docs/doc4",
+          label: "Project status",
+          position: "left",
+        },
 
         {
           href: "https://github.com/Foxster89/docusaurus-2",
