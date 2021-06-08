@@ -15,30 +15,39 @@ module.exports = {
       },
       links: [
         {
-          //activeBasePath: "docs/doc1",
-          label: "About our project",
-          position: "left",
-          to: "../doc1",
-        },
-        {
-          to: "../doc2",
-          label: "Knowledge",
-          position: "left",
-        },
-        { to: "../doc3", label: "Literature", position: "left" },
-        {
-          to: "../doc4",
-          label: "Project status",
-          position: "left",
-        },
-
-        {
-          href: "https://github.com/Foxster89/docusaurus-2",
-          label: "GitHub",
-          position: "right",
+          items: [
+            {
+            //activeBasePath: "docs/doc1",
+            label: "About our project",
+            position: "left",
+            to: "docs/doc1",
+            },
+            {
+            
+            label: "Knowledge",
+            position: "left",
+            to: "docs/doc2",
+            },
+            {
+            
+            label: "Literature",
+            position: "left",
+            to: "docs/doc3",
+            },
+            {
+            
+            label: "Project status",
+            position: "left",
+            to: "docs/doc4",
+            },
+            {
+            href: "https://github.com/Foxster89/docusaurus-2",
+            label: "GitHub",
+            position: "right",
+            },
+          ]
         },
       ],
-    },
     footer: {
       style: "dark",
       links: [
