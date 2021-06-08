@@ -31,7 +31,7 @@ const features = [
     ),
   },
   {
-    title: <a href="doc2.md">Plant Spikerbox</a>,
+    title: <a href="docs/doc2">Plant Spikerbox</a>,
     imageUrl: "img/eco_plant_green_icon.svg",
     description: (
       <>

@@ -15,19 +15,19 @@ module.exports = {
       },
       links: [
         {
-          to: "About our project/docs/doc1",
-          activeBasePath: "docs",
+          to: "docs/doc1",
+          activeBasePath: "docs/doc1",
           label: "About our project",
           position: "left",
         },
         {
-          to: "Plant SpikerBox/docs/doc2",
+          to: "docs/doc2",
           label: "Knowledge",
           position: "left",
         },
-        { to: "Literature/docs/doc3", label: "Literature", position: "left" },
+        { to: "docs/doc3", label: "Literature", position: "left" },
         {
-          to: "Project status/docs/doc4",
+          to: "docs/doc4",
           label: "Project status",
           position: "left",
         },
