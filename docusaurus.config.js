@@ -15,10 +15,10 @@ module.exports = {
       },
       links: [
         {
-          to: "docs/doc1",
-          activeBasePath: "docs/doc1",
+          //activeBasePath: "docs/doc1",
           label: "About our project",
           position: "left",
+          to: "docs/doc1",
         },
         {
           to: "docs/doc2",
