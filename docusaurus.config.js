@@ -14,8 +14,6 @@ module.exports = {
         src: "img/logo.svg",
       },
       links: [
-        {
-          items: [
             {
             //activeBasePath: "docs/doc1",
             label: "About our project",
@@ -23,7 +21,7 @@ module.exports = {
             to: "docs/doc1",
             },
             {
-            
+
             label: "Knowledge",
             position: "left",
             to: "docs/doc2",
@@ -44,11 +42,9 @@ module.exports = {
             href: "https://github.com/Foxster89/docusaurus-2",
             label: "GitHub",
             position: "right",
-            },
-          ],
+          },
+         ],
         },
-      ],
-    },
     footer: {
       style: "dark",
       links: [
