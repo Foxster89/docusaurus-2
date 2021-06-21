@@ -24,10 +24,21 @@ We documented the following factors:
 
 ### Tests
 
-Aufnahme | Uhrzeit  | Dauer    | Temperatur | Luftfeuchtigkeit | Wetter | Kommentar            | Stimulus           | Datei    |
--------- | -------- | -------- | --------   |  --------        | ------ | --------             | --------           | -------- |
-01       | 11:25    | 45 min   | 28,2 Grad  | 65               | bewölkt| keine direkte Sonne  | keiner             |          |
-02       | 12:55    | 45 min   | 26,3 Grad  | 58               | bewölkt| keine direkte Sonne  | 200HzSinWaveAmp100 |          |
-03       | 13:55    | 45 min   | 27,8 Grad  | 60               | bewölkt| keine direkte Sonne  | 200HzSinWaveAmp200 |          |
-04       | 15:03    | 45 min   | 27,9 Grad  | 59               | bewölkt| keine direkte Sonne  |                    |          |
-05       | 15:40    | 45 min   | 28,8 Grad  | 59               | bewölkt| keine direkte Sonne  |                    |          |
+Nr. | Time  | Length  | Temperatur | Humidity   | Weather | Note                | Stimuli          | Data       |
+--- | ----- | ------- | --------   |  --------  | ------  | --------            | --------         | --------   |
+01  | 11:25 | 45 min  | 28,2 Grad  | 65 %       | cloudy  | no direct sunlight  | keiner           | [Download] |
+02  | 12:55 | 45 min  | 26,3 Grad  | 58 %       | sunny   | no direct sunlight  | 200HzAmp100      | [Download] |
+03  | 13:55 | 45 min  | 27,8 Grad  | 60 %       | sunny   | no direct sunlight  | 200HzAmp200      | [Download] |
+04  | 15:03 | 45 min  | 27,9 Grad  | 59 %       | sunny   | no direct sunlight  |                  | [Download] |
+05  | 15:40 | 45 min  | 28,8 Grad  | 59 %       | sunny   | no direct sunlight  |                  | [Download] |
+
+
+### Played stimuli files
+
+Nr. | Audiofile    | Note                                      |
+--- | -------      |                                           |
+01  |              | Baseline                                  |
+02  | [Download]   | 200 Hz Sinuswave Amp 100 / Python created |
+03  | [Download]   | 200 Hz Sinuswave Amp 200 / Python created |
+04  | [Download]   |                                           |
+05  | [Download]   |                                           |
