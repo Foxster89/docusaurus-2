@@ -21,7 +21,7 @@ The plant is damped and thus protected from soil vibrations.
 
 Here is a photo of the lab from the 19.06.2021
 
-<img src="/img/Test01/lab.jpg" alt="our lab" width="350"/>
+<img src="/img/Test01/lab.jpg" alt="our lab" width="450"/>
 
 
 ## First Test
