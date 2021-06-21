@@ -48,6 +48,7 @@ module.exports = {
           ],
         },
       ],
+    },
     footer: {
       style: "dark",
       links: [
@@ -106,7 +107,6 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} COINs2021 Project.`,
     },
   },
-},
   presets: [
     [
       "@docusaurus/preset-classic",
