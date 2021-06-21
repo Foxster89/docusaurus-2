@@ -1,6 +1,6 @@
 ---
 id: doc4
-title: 25/05/21 - First test
+title: 25/05/21 - Test of Plant Reactions and Lab
 ---
 
 ## Our Plant
@@ -17,7 +17,12 @@ As testlab we are using a office at the datacenter of the University of Bamberg.
 
 The window is to the north side and the plant is not effected by direct sunlight.
 
-the plant is damped and thus protected from soil vibrations
+The plant is damped and thus protected from soil vibrations.
+
+Here is a photo of the lab from the 19.06.2021
+
+<img src="/img/Test01/lab.jpg" alt="our lab" width="350"/>
+
 
 ## First Test
 
