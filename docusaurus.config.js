@@ -107,11 +107,11 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} COINs2021 Project.`,
     },
   },
-  /*presets: [
+  presets: [
     [
       "@docusaurus/preset-classic",
       {
-        docs: {
+       /* docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
@@ -122,11 +122,11 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
+        },*/
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
       },
     ],
-  ],*/
+  ],
 };
