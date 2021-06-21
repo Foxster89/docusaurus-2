@@ -1,6 +1,6 @@
 ---
 id: doc4
-title: 25/05/21 - Test of Plant Reactions and Lab
+title: 25/05/21 - Initial test
 ---
 
 ## Our Plant
