@@ -20,6 +20,7 @@ As testlab we are using a office at the datacenter of the University of Bamberg.
 - Nobody except of our group has access to the room and the plant has almost no contact.
 - Plant gets watered when needed around three times a week and has no other direct stimuli or contact.
 - All electric devices including the power in the room are turned off especially during the experiments.
+- While a test is performing nobody is in the room and the room is covered by a firedoors which isolate very good from outside noises
 
 
 Here is a photo of the lab from the 19.06.2021:
