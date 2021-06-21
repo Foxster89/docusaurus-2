@@ -27,3 +27,9 @@ Cause of some measuring problems we did some tests a few days later on the 21.06
 
 
 ### Played stimuli files
+
+
+<audio controls="controls">
+  <source type="audio/wav" src="/data/Test03/Stimuli/Jodel.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
