@@ -16,8 +16,18 @@ Tomato plant had grown a lot since our last visit (almost double so tall). We de
 ### Documentation
 
 We documented the following factors:
-Weather
-Sunlight
-Air humidity
-Time
-Plant height
+- Weather
+- Sunlight
+- Air humidity
+- Time
+- Plant height
+
+### Tests
+
+Aufnahme | Uhrzeit  | Dauer    | Temperatur | Luftfeuchtigkeit | Wetter | Kommentar            | Stimulus           | Datei    |
+-------- | -------- | -------- | --------   |  --------        | ------ | --------             | --------           | -------- |
+01       | 11:25    | 45 min   | 28,2 Grad  | 65               | bewölkt| keine direkte Sonne  | keiner             |          |
+02       | 12:55    | 45 min   | 26,3 Grad  | 58               | bewölkt| keine direkte Sonne  | 200HzSinWaveAmp100 |          |
+03       | 13:55    | 45 min   | 27,8 Grad  | 60               | bewölkt| keine direkte Sonne  | 200HzSinWaveAmp200 |          |
+04       | 15:03    | 45 min   | 27,9 Grad  | 59               | bewölkt| keine direkte Sonne  |                    |          |
+05       | 15:40    | 45 min   | 28,8 Grad  | 59               | bewölkt| keine direkte Sonne  |                    |          |
