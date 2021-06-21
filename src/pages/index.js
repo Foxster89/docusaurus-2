@@ -8,7 +8,7 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: <>COINs 2021</>,
+    title: [COINs2021](https://sites.google.com/view/coinseminar21/home),
     imageUrl: "img/eco_wifi_pollution.svg",
     description: (
       <>
