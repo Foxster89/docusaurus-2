@@ -107,7 +107,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} COINs2021 Project.`,
     },
   },
-  presets: [
+  /*presets: [
     [
       "@docusaurus/preset-classic",
       {
@@ -128,5 +128,5 @@ module.exports = {
         },
       },
     ],
-  ],
+  ],*/
 };
