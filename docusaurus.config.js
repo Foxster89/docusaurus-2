@@ -45,7 +45,7 @@ module.exports = {
             label: "GitHub",
             position: "right",
             },
-          ]
+          ],
         },
       ],
     footer: {
@@ -106,6 +106,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} COINs2021 Project.`,
     },
   },
+},
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -128,5 +129,4 @@ module.exports = {
       },
     ],
   ],
- },
 };
