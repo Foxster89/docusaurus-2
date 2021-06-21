@@ -1,6 +1,6 @@
 ---
 id: doc4
-title: 25/05/21 - First Test
+title: 25/05/21 - First test
 ---
 
 ## Our Plant
@@ -14,6 +14,7 @@ The Image is from the beginnng and the plant meanwhile growth a lot.
 ## Testlab
 
 As testlab we are using a office at the datacenter of the University of Bamberg. The room is not used for other purposes and cause of the Covid-19 pandemic the data center is quite empty and the plant is not disturbed a lot.
+<<<<<<< HEAD
 
 The window is to the north side and the plant is not effected by direct sunlight.
 
@@ -30,3 +31,5 @@ In the following test we saw strong impacts on the Spikerbox.
 - Impact on touching. The plant is not reacting to all touches. Mostly to touches with the hands and not with plastic.
 
 
+=======
+>>>>>>> 6e41b7d7ecc96be3957675b4b0be21be6bbfa1cf

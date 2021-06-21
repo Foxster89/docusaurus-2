@@ -1,47 +1,53 @@
-import React from 'react';
-import classnames from 'classnames';
-import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import useBaseUrl from '@docusaurus/useBaseUrl';
-import styles from './styles.module.css';
+import React from "react";
+import classnames from "classnames";
+import Layout from "@theme/Layout";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import useBaseUrl from "@docusaurus/useBaseUrl";
+import styles from "./styles.module.css";
 
 const features = [
   {
-    title: <>Documentation</>,
-    imageUrl: 'img/eco_green_house.svg',
-    description: (
-      <>
-        The page serves as a plattform for documentation and to exchange knowledge.
-        Everyone is welcome to contribute or use the information we gather.
-      </>
-    ),
-  },
-  {
-    title: <>Plants Spikerbox</>,
-    imageUrl: 'img/eco_plant_green_icon.svg',
-    description: (
-      <>
-        For mesuring reactions of plants we use the "Plant Spikerbox" from backyardbrains. 
-        On this plattform we also show how to use this box and gather all information about the box and the usage.
-      </>
-    ),
-  },
-  {
     title: <>COINs 2021</>,
-    imageUrl: 'img/eco_wifi_pollution.svg',
+    imageUrl: "img/eco_wifi_pollution.svg",
     description: (
       <>
-        The group of this project was formed in the COINs seminar 2021 and the plattform was also designed for usage in future COIN seminar.
+        This platform was established in the context of the MIT, University of
+        Cologne, University of Bamberg, HSLU Collaborative Innovation Networks
+        seminar. The page serves as a plattform for documentation and to
+        exchange knowledge.
+      </>
+    ),
+  },
+  {
+    title: <>Knowledge</>,
+    imageUrl: "img/eco_green_house.svg",
+    description: (
+      <>
+        We want to provide a platform for documentation and exchange on how to
+        work on the topic of plants as biosensors. Everyone is welcome to
+        contribute or use the gathered information.
+      </>
+    ),
+  },
+  {
+    title: <a href="docs/doc2">Plant Spikerbox</a>,
+    imageUrl: "img/eco_plant_green_icon.svg",
+    description: (
+      <>
+        For our experiments we use the Plant SpikerBox by BackyardBrains. It
+        makes it possible to measure the plant's electric responses to different
+        stimuli. We show how to use the box and gather useful information about
+        the box and its usage.
       </>
     ),
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({ imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={classnames('col col--4', styles.feature)}>
+    <div className={classnames("col col--4", styles.feature)}>
       {imgUrl && (
         <div className="text--center">
           <img className={styles.featureImage} src={imgUrl} alt={title} />
@@ -55,24 +61,26 @@ function Feature({imageUrl, title, description}) {
 
 function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+  const { siteConfig = {} } = context;
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <header className={classnames('hero hero--primary', styles.heroBanner)}>
+      description="Description will go into a meta tag in <head />"
+    >
+      <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
               className={classnames(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
+                "button button--outline button--secondary button--lg",
+                styles.getStarted
               )}
-              to={useBaseUrl('docs/doc1')}>
+              to={useBaseUrl("docs/doc1")}
+            >
               About our Project
-              </Link>
+            </Link>
           </div>
         </div>
       </header>
