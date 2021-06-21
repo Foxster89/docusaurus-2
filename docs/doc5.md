@@ -1,6 +1,6 @@
 ---
 id: doc5
-title: 04/06/21 - Second test
+title: 04/06/21 - Second test with 200 Hz frequenzy and male/female audio
 ---
 
 ## More experiments
