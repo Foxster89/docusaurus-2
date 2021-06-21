@@ -15,11 +15,14 @@ The Image is from the beginnng and the plant meanwhile growth a lot.
 
 As testlab we are using a office at the datacenter of the University of Bamberg. The room is not used for other purposes and cause of the Covid-19 pandemic the data center is quite empty and the plant is not disturbed a lot.
 
-The window is to the north side and the plant is not effected by direct sunlight.
+- The window is to the northside and the plant is not effected by direct sunlight.
+- The plant is damped and thus protected from soil vibrations.
+- Nobody except of our group has access to the room and the plant has almost no contact.
+- Plant gets watered when needed around three times a week and has no other direct stimuli or contact.
+- All electric devices including the power in the room are turned off especially during the experiments.
 
-The plant is damped and thus protected from soil vibrations.
 
-Here is a photo of the lab from the 19.06.2021
+Here is a photo of the lab from the 19.06.2021:
 
 <img src="/img/Test01/lab.jpg" alt="our lab" width="450"/>
 
