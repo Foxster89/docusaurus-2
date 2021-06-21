@@ -26,11 +26,11 @@ We documented the following factors:
 
 Nr. | Time  | Length  | Temperatur | Humidity   | Weather | Note                | Stimuli          | Data       |
 --- | ----- | ------- | --------   |  --------  | ------  | --------            | --------         | --------   |
-01  | 11:25 | 45 min  | 28,2 Grad  | 65 %       | cloudy  | no direct sunlight  | keiner           | [Download] |
-02  | 12:55 | 45 min  | 26,3 Grad  | 58 %       | sunny   | no direct sunlight  | 200HzAmp100      | [Download] |
-03  | 13:55 | 45 min  | 27,8 Grad  | 60 %       | sunny   | no direct sunlight  | 200HzAmp200      | [Download] |
-04  | 15:03 | 45 min  | 27,9 Grad  | 59 %       | sunny   | no direct sunlight  | male voice       | [Download] |
-05  | 15:40 | 45 min  | 28,8 Grad  | 59 %       | sunny   | no direct sunlight  | female voice     | [Download] |
+01  | 11:25 | 45 min  | 28,2 Grad  | 65 %       | Cloudy  | No direct sunlight  | None             | [Download] |
+02  | 12:55 | 49 min  | 26,3 Grad  | 58 %       | Sunny   | No direct sunlight  | 200HzAmp100      | [Download] |
+03  | 13:55 | 33 min  | 27,8 Grad  | 60 %       | Sunny   | No direct sunlight  | 200HzAmp200      | [Download] |
+04  | 15:03 | 31 min  | 27,9 Grad  | 59 %       | Sunny   | No direct sunlight  | Male voice       | [Download] |
+05  | 15:40 |         | 28,8 Grad  | 59 %       | Sunny   | No direct sunlight  | Female voice     | [Download] |
 
 
 ### Played stimuli files
