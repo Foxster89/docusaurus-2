@@ -37,8 +37,11 @@ Nr. | Time  | Length  | Temperatur | Humidity   | Weather | Note                
 
 Nr. | Audiofile    | Note                                      |
 --- | -------      | ----------                                |
-01  | None         | Baseline                                  |
 02  | [Download]   | 200 Hz Sinuswave Amp 100 / Python created |
 03  | [Download]   | 200 Hz Sinuswave Amp 200 / Python created |
 04  | [Download]   | RAVEDESS Database - Actor 7 in a loop     |
 05  | [Download]   | RAVEDESS Database - Actor 8 in a loop     |  
+
+### Results
+
+Results are still in progress an will be shown here soon

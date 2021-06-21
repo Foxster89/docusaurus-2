@@ -12,8 +12,8 @@ Our plant is growthing a lot and looks healthy. Also it shows first flowers for 
 ## Experiments
 
 1. Baseline test
-2. Test with chor music from children performed by
-3. Jodeln
+2. Test with choire music from children performed by 1Voice
+3. Yodel
 
 
 :::note
@@ -25,20 +25,36 @@ Cause of some measuring problems we did some tests a few days later on the 21.06
 
 ### Tests
 
+First we wanted to get a new baseline to see how the plant is doing without any stimulation. On test Nr.06 the Cable fall off and on test 07 we recoginsed that the powerplug which is closer to the plant was not turned off. We could not say if this had any impact so we did a third test without any stimululation. On test 08 we still discovered much higher activity then we discovered on the test from 04.06.
+
+In test 09 was with the childrens choire 1Voice. The test 10 and 11 took place two days later on the 21.06 to give the plant some time to recover.
+On test 10 we did again a test without any stimulation but with similar results like before.
+
+Nr. | Time  | Length  | Temperatur | Humidity   | Weather | Note                | Stimuli                       | Data       |
+--- | ----- | ------- | --------   |  --------  | ------  | --------            | --------                      | --------   |
+06  | 13:39 |    min  | 29,5 Grad  | 65 %       | Sunny   | Cabel fall off      | None                          | [Download] |
+07  | 14:54 |    min  | 29,4 Grad  | 65 %       | Sunny   | Electricity on      | None                          | [Download] |
+08  | 15:25 |    min  | 29,4 Grad  | 65 %       | Sunny   | No direct sunlight  | None                          | [Download] |
+09  | 15:39 | 40 min  | 29,3 Grad  | 65 %       | Sunny   | No direct sunlight  | 1Voice childrens choire       | [Download] |
+10  | 15:30 |    min  | 27,9 Grad  | 52 %       | Sunny   | 21.06               | None                          | [Download] |
+11  | 16:28 |    min  | 28,3 Grad  | 52 %       | Sunny   | 21.06               | Yodel 2min with 5 repeats     | [Download] |
 
 ### Played stimuli files
 
 
 Nr. | Audiofile  | Note                     |
 --- | -------    | ----------               |
-06  | None       |  None stimuli test       |
-07  | None       |  None stimuli test       |
-08  | None       |  None stimuli test       |
 09  | [Download] |  1Voice childrens choire |  
-10  | [Download] |                          |  
+11  | [Download] |  Yodel                   | 
 
+
+Audio example of the yodel:
 
 <audio controls="controls">
   <source type="audio/wav" src="/data/Test03/Stimuli/Jodel.wav"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>              
+
+### Results
+
+Results are still in progress an will be shown here soon
