@@ -1,11 +1,11 @@
 ---
 id: testlab
-title: Our test laboratory
+title: Test laboratory 
 ---
 
 ## Our Plant
 
-For our tests we used two young tomato plants as shown in the following image.
+For our tests we used two young tomato plants as shown in the following image. This photo shows the plant at the beginning of our COINs21 seminar in May 2021.
 
 <img src="/img/Test01/ourplant.jpg" alt="our plant" width="350"/>
 
