@@ -41,10 +41,8 @@ In the following experiment we saw strong impacts on the Spikerbox:
 
 ## Results
 
+<img src="/data/Test01/Results/Time_Amplitude_firstRecording.png" alt="waveplot test01" width="550"/>
 
 
-<img src="/data/Test01/Results/Test01/Time_Amplitude_firstRecording.png" alt="waveplot test01" width="550"/>
-
-
-<img src="/data/Test01/Results/Test01/Waveplot_firstRecording_zoomedln.png" alt="waveplot2 test01" width="550"/>
+<img src="/data/Test01/Results/Waveplot_firstRecording_zoomedln.png" alt="waveplot2 test01" width="550"/>
 
