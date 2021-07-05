@@ -39,4 +39,12 @@ In the following experiment we saw strong impacts on the Spikerbox:
 - Impact  on watering the plant.
 - Impact on touching. The plant is not reacting to all materials which touch the plant. Plastic shows almost no reaction the touch of a hand much more.
 
+## Results
+
+
+
+<img src="/data/Test01/Results/Test01/Time_Amplitude_firstRecording.png" alt="waveplot test01" width="550"/>
+
+
+<img src="/data/Test01/Results/Test01/Waveplot_firstRecording_zoomedln.png" alt="waveplot2 test01" width="550"/>
 
