@@ -44,4 +44,4 @@ Nr. | Audiofile    | Note                                      |
 
 ### Results
 
-Results are still in progress an will be shown here soon
+<img src="/data/Test02/Results/Waveplot_secondRecording.png" alt="waveplot test02" width="750"/>

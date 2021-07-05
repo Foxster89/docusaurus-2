@@ -35,4 +35,4 @@ Nr. | Audiofile                                                      | Note     
 
 ### Results
 
-Results are still in progress an will be shown here soon
+<img src="/data/Test04/Time_Amplitude_fourthRecording.png" alt="waveplot test04" width="750"/>

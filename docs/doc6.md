@@ -53,6 +53,3 @@ Audio example of the yodel:
   <p>Your browser does not support the audio element.</p>
 </audio>              
 
-### Results
-
-Results are still in progress an will be shown here soon
