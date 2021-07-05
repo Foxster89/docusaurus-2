@@ -40,10 +40,10 @@ Nr. | Time  | Length  | Temperatur | Humidity   | Weather | Note                
 
 ### Played stimuli files
 
-Nr. | Audiofile  | Note                     |
---- | -------    | ----------               |
-09  | [Download] |  1Voice childrens choire |  
-11  | [Download] |  Yodel                   | 
+Nr. | Audiofile                                                      | Note                      |
+--- | -------                                                        | ----------                |
+09  | [Link](https://open.spotify.com/artist/6R6DXuHYxkMv159D9OaS3C) |  1 Voice childrens choire |  
+11  |                                                                |  Yodel                    | 
 
 
 Audio example of the yodel:
