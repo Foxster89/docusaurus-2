@@ -18,10 +18,10 @@ title: 02/07/21 - Fourth test
 
 Nr.| Time  | Length | Temperatur | Humidity | Weather | Note               | Stimuli                  | Data       |
 ---| ----- | -------| --------   |  --------| ------  | --------           | --------                 | --------   |
-12 | 13:39 |    min | 29,5 Grad  | 65 %     | Sunny   | Cabel fall off     | None                     | [Download](data/Test04/Results/no_stimulus_0207_30.wav) |
-13 | 14:54 |    min | 29,4 Grad  | 65 %     | Sunny   | Electricity was on | None                     | [Download](data/Test04/Results/HP_0207_30.wav) |
-14 | 15:25 |    min | 29,4 Grad  | 65 %     | Sunny   | No direct sunlight | None                     | [Download](data/Test04/Results/HG_0207_30.wav) |
-15 | 15:39 |    min | 29,3 Grad  | 65 %     | Sunny   | No direct sunlight | 1 Voice childrens choire | [Download](data/Test04/Results/1VCC_0207_30.wav) |
+12 | 13:39 |    min | 29,5 Grad  | 65 %     | Sunny   | Cabel fall off     | None                     | [Download](~/static/data/Test04/Results/no_stimulus_0207_30.wav) |
+13 | 14:54 |    min | 29,4 Grad  | 65 %     | Sunny   | Electricity was on | None                     | [Download](~/static/data/Test04/Results/HP_0207_30.wav) |
+14 | 15:25 |    min | 29,4 Grad  | 65 %     | Sunny   | No direct sunlight | None                     | [Download](~/static/data/Test04/Results/HG_0207_30.wav) |
+15 | 15:39 |    min | 29,3 Grad  | 65 %     | Sunny   | No direct sunlight | 1 Voice childrens choire | [Download](~/static/data/Test04/Results/1VCC_0207_30.wav) |
 
 
 ### Played stimuli files
