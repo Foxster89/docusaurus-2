@@ -35,4 +35,4 @@ Nr. | Audiofile                                                      | Note     
 
 ### Results
 
-<img src="/data/Test04/Time_Amplitude_fourthRecording.png" alt="waveplot test04" width="750"/>
+<img src="/data/Test04/Results/Time_Amplitude_fourthRecording.png" alt="waveplot test04" width="750"/>
