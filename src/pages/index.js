@@ -14,7 +14,7 @@ const features = [
       <>
         This platform was established in the context of the MIT, University of
         Cologne, University of Bamberg, HSLU Collaborative Innovation Networks
-        seminar. The page serves as a plattform for documentation and to
+        seminar. This page serves as a platform for documentation and to
         exchange knowledge.
       </>
     ),

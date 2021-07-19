@@ -5,7 +5,9 @@ title: 04/06/21 - Second test
 
 ## More experiments
 
-Tomato plant had grown a lot since our last visit (almost double so tall). We decided to experiment only with sound and voice today and leave other stimuli like water or touch. For this we used the <a href="https://zenodo.org/record/1188976">Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)</a> We carried out 5 experiments:
+Tomato plant had grown a lot since our last visit (almost the double of its size). We decided to experiment only with sound and voice today and do not expose the plant to other stimuli like water or touches. Therefore we used the <a href="https://zenodo.org/record/1188976">Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)</a>. 
+As plants in another project showed a big response to sinuswaves of 200 Hz frequency, we decided to also compare human voice to this created sinuswave.
+We carried out 5 experiments:
 
 1. No stimulus
 2. 200 Hz - 100 amplitude
