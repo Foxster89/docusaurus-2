@@ -95,6 +95,7 @@ training_dataset, test_dataset = sklearn.model_selection.train_test_split(files,
 ```
 
 Now we calculate the mfcc features
+
 ```python
 sr= 10000
 n_fft= 2500
@@ -145,7 +146,7 @@ y_test = to_categorical(np.array(y_test))
 X_train = np.expand_dims(train_mfccs, -1)
 X_test = np.expand_dims(test_mfccs, -1)
 ```
-Now creating the model.
+Now create the model.
 
 ```python
 model = Sequential()
@@ -161,11 +162,7 @@ model.add(Dense(64, activation='relu'))
 model.add(Dropout(0.4))
 model.add(Dense(4, activation='softmax'))
 checkpoint_path = "cp.ckpt2"
-cp_callback = tf.keras.callbacks.ModelCheckpoint(filepath=checkpoint_path,                                                     
-                                                 save_best_only=True,                                                 
-                                                 mode='max',                                                 
-                                                 monitor='val_accuracy',                                                 
-                                                 verbose=1)
+cp_callback = tf.keras.callbacks.ModelCheckpoint(filepath=checkpoint_path,save_best_only=True,mode='max',monitor='val_accuracy',verbose=1)
 
 model.summary()
 ```
@@ -186,6 +183,7 @@ history = model.fit(X_train,
 After 65 epochs our validation accuracy improved to 0.60069.
 
 Confusion Matrix:
+
 ```python
 y_pred= model.predict(X_test)
 y_p= np.argmax(y_pred, axis=1)
@@ -193,12 +191,12 @@ y_pred=y_pred.astype(int)
 y_t=np.argmax(y_test, axis=1)
 confusion_mtx = tf.math.confusion_matrix(y_t, y_p) 
 plt.figure(figsize=(5, 5))
-sns.heatmap(confusion_mtx, 
-            annot=True, fmt='g')
+sns.heatmap(confusion_mtx, annot=True, fmt='g')
 plt.xlabel('Prediction')
 plt.ylabel('Label')
 plt.show()
 ```
+
 ```python
 plt.plot(history.history['accuracy'], label='Train Accuracy')
 plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
