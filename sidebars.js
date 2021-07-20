@@ -3,8 +3,7 @@ module.exports = {
     "About our project": ["doc1"],
     Knowledge: ["doc2"],
     Literature: ["doc3"],
-    "Project Status Group 05": ["testlab", "doc4", "doc5", "doc6", "doc7", "doc8"],
+    "Project Status Group 05": ["testlab", "doc4", "doc5", "doc6", "doc7", "doc8", "doc9"],
     "Project Status Group 04": ["group04"],
-    "Final Presentation and Paper": ["doc9"],
   },
 };

@@ -46,4 +46,4 @@ Nr. | Audiofile                                   | Note                        
 
 ### Results
 
-<img src="/data/Test02/Results/Waveplot_secondRecording.png" alt="waveplot test02" width="750"/>
+<img src="/data/Test02/Results/Time_Amplitude_firstRecording.png" alt="Signal test02" width="750"/>

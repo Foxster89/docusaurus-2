@@ -14,10 +14,4 @@ In the following experiment we saw strong impacts in the signal measured with th
 - Impact  on watering the plant.
 - Impact on touching. It seems like the material also plays a role.
 
-## Results
-
-<img src="/data/Test01/Results/Time_Amplitude_firstRecording.png" alt="waveplot test01" width="750"/>
-
-
-<img src="/data/Test01/Results/Waveplot_firstRecording_zoomedIn.png" alt="waveplot2 test01" width="750"/>
 
