@@ -182,25 +182,5 @@ history = model.fit(X_train,
 
 After 65 epochs our validation accuracy improved to 0.60069.
 
-Confusion Matrix:
 
-```python
-y_pred= model.predict(X_test)
-y_p= np.argmax(y_pred, axis=1)
-y_pred=y_pred.astype(int)
-y_t=np.argmax(y_test, axis=1)
-confusion_mtx = tf.math.confusion_matrix(y_t, y_p) 
-plt.figure(figsize=(5, 5))
-sns.heatmap(confusion_mtx, annot=True, fmt='g')
-plt.xlabel('Prediction')
-plt.ylabel('Label')
-plt.show()
-```
-
-```python
-plt.plot(history.history['accuracy'], label='Train Accuracy')
-plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
-plt.xlabel('Epochs')
-plt.ylabel('Accuracy')
-plt.legend()
-```
+For more info on deep learning audio classification see [kaggle.com](https://www.kaggle.com/ashirahama/simple-keras-cnn-with-mfcc) or this article on [medium](https://medium.com/analytics-vidhya/deep-learning-audio-classification-fcbed546a2dd ) where we based our classification on.
