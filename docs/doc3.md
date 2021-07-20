@@ -5,8 +5,8 @@ title: Literature
 
 :::tip We need your support
 
-We are always looking for more literature about plants as biosensors or topics which are connected with this topic.
-Just send us an email and we will add it. Our contact data you can find [here](https://plantsasbiosensors.vercel.app/docs/doc1).
+We are always looking for more literature about plants as biosensors or topics which are connected to this topic.
+Just send an email and we will add it. You can find our contact data [here](https://plantsasbiosensors.vercel.app/docs/doc1).
 
 Thank you!
 
