@@ -6,8 +6,8 @@ title: 02/07/21 - Fourth test
 ## Experiments
 
 1. Baseline test
-2. Audiobook "Harry Potter" spoken from Rufus Beck as male narrator
-3. Audiobook "Tribute from Panem" spoken from Maria Koschny as femal narrator
+2. Audiobook "Harry Potter" read by Rufus Beck.
+3. Audiobook "The Hunger Games" read by Maria Koschny.
 4. One Voice Children's Choir Spotify Playlist
 
 ### Documentation
@@ -30,7 +30,7 @@ Nr. | Audiofile                                                      | Note     
 --- | --------------                                                 | ----------                                       |
 13  |                                                                |  Audiobook Harry Potter, narrator Rufus Beck     |  
 14  |                                                                |  Audiobook Hunger Games, narrator Maria Koschny  | 
-15  | [Link](https://open.spotify.com/artist/6R6DXuHYxkMv159D9OaS3C) |  One Voice Children's Choir on Spotify           | 
+15  | [Spotify Link](https://open.spotify.com/artist/6R6DXuHYxkMv159D9OaS3C) |  One Voice Children's Choir on Spotify           | 
            
 
 ### Results
