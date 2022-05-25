@@ -6,7 +6,7 @@ title: Data analysis and preparation for machine learning
 ## Audio Processing 
 
 At first we need to understand how to process our audio data properly. If you are new to the topic, we can recommend you this [tutorial](https://ccrma.stanford.edu/~unjung/mylec/WTpart1.html ) by Robi Polikar from the university of Stanford. It is about wavelet transforms, but first also gives an introduction to Fourier Transform etc.
-Other articles which we found to provide a first approach to the topic were
+Other articles which we found to provide a first approach to the topic (among many others) were
 - [Simple Keras CNN with MFCC](https://www.kaggle.com/ashirahama/simple-keras-cnn-with-mfcc) on kaggle.com
 - [Deep Learning Audio Classification](https://medium.com/analytics-vidhya/deep-learning-audio-classification-fcbed546a2dd ). on medium.com
 - [Free Spoken Digits Dataset](https://www.kaggle.com/datasets/alanchn31/free-spoken-digits), a dataset for first attempts, also on kaggle.com
